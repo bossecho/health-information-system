@@ -1,0 +1,8 @@
+| Category           | Standard Used                                      |
+| ------------------ | -------------------------------------------------- |
+| **UI Framework**   | Tailwind CSS                                       |
+| **Design Pattern** | Admin Dashboard / Material Design Influence        |
+| **Layout**         | Responsive, Fixed Header + Sidebar                 |
+| **Icons**          | Font Awesome                                       |
+| **UX Design**      | Clean, Accessible, and Interactive                 |
+| **Color Scheme**   | Blue-based professional palette for health systems |
