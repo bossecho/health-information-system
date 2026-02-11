@@ -6,14 +6,25 @@ A dashboard system for managing patients, consultations, prenatal visits, and im
 
 ## 📸 Screenshots
 
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+### Dashboard Modules
 
-### Recent Activities
-![Recent Activities](screenshots/recent-activities.png)
+#### Backup Module
+![Backup Module](screenshots/backup.jfif)
 
-### Reports Section
-![Reports](screenshots/reports.png)
+#### Reports Module
+![Reports Module](screenshots/reports.jfif)
+
+#### Service Tracking Module
+![Service Tracking Module](screenshots/servicetracking.jfif)
+
+#### Table Module
+![Table Module](screenshots/table.jfif)
+
+#### User Management Module
+![User Management Module](screenshots/usermanagement.jfif)
+
+#### Patient Module
+![Patient Module](screenshots/patient.jfif)
 
 ---
 
@@ -24,6 +35,7 @@ A dashboard system for managing patients, consultations, prenatal visits, and im
 - Recent Activities Tracking
 - Alerts and Reminders
 - User-friendly Dashboard Interface
+- Module-based system for easier management (Backup, Reports, Service Tracking, Table, User Management, Patient)
 
 ---
 
