@@ -1,4 +1,4 @@
-# Barangay Health Monitoring System (BHMS)
+# Barangay Health Monitoring System (BHMS) 60% Working
 
 A dashboard system for managing patients, consultations, prenatal visits, and immunizations in a barangay health center. Built with PHP, MySQL, and Tailwind CSS.
 
