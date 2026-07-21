@@ -48,9 +48,3 @@ A dashboard system for managing patients, consultations, prenatal visits, and im
 
 ---
 
-## 🚀 Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/username/your-repo.git
